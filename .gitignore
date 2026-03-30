@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+frames/
+video_detections/
+
+outputs/*.json
+outputs/*.jpg
+outputs/*.png
+
+data/video.mp4
